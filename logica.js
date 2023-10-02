@@ -5,3 +5,4 @@ console.log("Esto es un enunciado");
 console.log("Palabra");
 console.log("Cambios en main");
 alert("Se va a crear un conflicto");
+alert("Se va a crear un conflicto 2");
