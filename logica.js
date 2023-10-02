@@ -6,3 +6,5 @@ console.log("Palabra");
 console.log("Cambios en main");
 alert("Se va a crear un conflicto");
 console.log("Aqui viene el conflicto");
+alert("Se va a crear un conflicto 2");
+
